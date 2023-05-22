@@ -1,0 +1,5 @@
+k=str(input())
+l=int(input())
+m=int(input())
+s1=slice(l,m+1)
+print(k[s1])
